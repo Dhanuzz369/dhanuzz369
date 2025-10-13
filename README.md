@@ -32,7 +32,7 @@
 
 - 💬 Ask me about **AWS, Azure, GCP, Kubernetes, Docker, Terraform, Jenkins, CI/CD**
 
-- 📫 Reach me at **dhanush0767@gmail.com**
+- 📫 Reach me at **dhanuzh369@gmail.com**
 
 - ⚡ Fun fact: **I automate everything, even my morning routine! ☕🤖**
 
