@@ -28,7 +28,7 @@
 
 - 🎯 **Seeking opportunities in DevOps & Cloud Architecture roles**
 
-- 👨‍💻 Portfolio: [**myportfolio.com**](https://myportfolio.com)
+- 👨‍💻 Portfolio: [**dhanushm.vercel.app**](https://dhanushm.vercel.app)
 
 - 💬 Ask me about **AWS, Azure, GCP, Kubernetes, Docker, Terraform, Jenkins, CI/CD**
 
